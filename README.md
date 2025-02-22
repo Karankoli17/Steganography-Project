@@ -50,5 +50,5 @@ This project is open-source. Feel free to modify and improve it! 🚀
 
 ---
 ### 🌟 Connect with Me
-🔗 [GitHub](https://github.com/your-username)  
-📧 Email: your-email@example.com
+🔗 [GitHub](https://github.com/Karankoli17)  
+🔗 [LinkedIn](https://www.linkedin.com/in/karan-koli-4b7b5b2b2/)
